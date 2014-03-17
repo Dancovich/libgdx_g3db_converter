@@ -1,5 +1,4 @@
 ![logo](http://libgdx.badlogicgames.com/img/logo.png)
-![logo](http://download.blender.org/institute/logos/blender-plain.png)
 
 G3DJ to G3DB Converter
 ====================
